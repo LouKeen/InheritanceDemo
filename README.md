@@ -1,0 +1,2 @@
+# InheritanceDemo
+Basic Java Inheritance.
